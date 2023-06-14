@@ -1,1 +1,1 @@
-This repository contains a collection of my machine learning and data cleaning projects, showcasing my expertise and skills in these domains. Each project focuses on different aspects of machine learning, ranging from classification and regression to clustering and data preprocessing.
+This directory contains a collection of my data cleaning projects, showcasing my expertise and skills. Each project focuses on different aspects of data cleaning.
