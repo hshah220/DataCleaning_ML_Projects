@@ -1,1 +1,1 @@
-# DataCleaning_ML_Projects
+This repository contains a collection of my machine learning and data cleaning projects, showcasing my expertise and skills in these domains. Each project focuses on different aspects of machine learning, ranging from classification and regression to clustering and data preprocessing.
